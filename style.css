@@ -1,0 +1,22 @@
+h1 {
+    text-align: center;
+    background-color: blanchedalmond;
+}
+
+nav.menu {
+    text-align: center;
+    background-color: greenyellow;
+}
+
+div.a {
+    background-color: orange;
+}
+
+div.fondo {
+    background-color: blue;
+    text-align: center;
+}
+
+span.sueño {
+    background-color: yellow;
+}
